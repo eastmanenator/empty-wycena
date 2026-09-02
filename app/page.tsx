@@ -35,8 +35,8 @@ export default function Home() {
             ×
           </button>
           <span className="spark" aria-hidden="true">✦</span>
-          <h2 id="surprise-title">Kontaktuj się</h2>
-          <p>z Szymonem K.</p>
+          <h2 id="surprise-title">Możliwość pobrania dokumentów</h2>
+          <p>wygasła z dniem 3.09.2026.</p>
         </div>
       </dialog>
     </main>
